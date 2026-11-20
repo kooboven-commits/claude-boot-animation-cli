@@ -1,0 +1,5 @@
+# 动画素材由 install.ps1 从原作者的官方发布下载，不放进本仓库（素材授权为 CC BY-NC-ND）
+assets/
+ASSETS-LICENSE.md
+build/
+*.exe
